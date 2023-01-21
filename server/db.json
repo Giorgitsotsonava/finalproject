@@ -512,6 +512,11 @@
       "productId": 8,
       "userId": "1",
       "id": 49
+    },
+    {
+      "productId": 4,
+      "userId": "1",
+      "id": 50
     }
   ]
 }

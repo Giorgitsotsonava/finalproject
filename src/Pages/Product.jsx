@@ -1,5 +1,5 @@
 import { useState, forwardRef } from "react";
-import { OpenInNew, ShoppingCartOutlined } from "@material-ui/icons";
+import { OpenInNew, ShoppingCartOutlined } from "@mui/icons-material";
 import styled from "styled-components";
 import Snackbar from "@mui/material/Snackbar";
 import MuiAlert from "@mui/material/Alert";

@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { Add, Remove } from "@material-ui/icons";
+import { Add, Remove } from "@mui/icons-material";
 import styled from "styled-components";
 import { mobile } from "../responsive";
 import Button from "@mui/material/Button";
